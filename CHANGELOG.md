@@ -2,6 +2,11 @@
 
 All notable changes to `visio/product` will be documented in this file.
 
+## Unreleased
+
+### Changed
+- Upgraded to FilamentPHP 4.x
+
 ## 1.0.0 - 2024-12-16
 
 ### Added
