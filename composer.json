@@ -1,6 +1,6 @@
 {
     "name": "visio/product",
-    "description": "A FilamentPHP 4 module for team discussions and idea submissions",
+    "description": "A FilamentPHP module for team discussions and idea submissions",
     "type": "library",
     "license": "MIT",
     "keywords": [

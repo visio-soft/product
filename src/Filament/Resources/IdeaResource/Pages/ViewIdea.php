@@ -114,7 +114,8 @@ class ViewIdea extends ViewRecord
                                     ->success()
                                     ->send();
 
-                                $this->refreshFormData(['comments']);
+                                // Redirect to refresh the page and show the new comment
+                                return redirect()->to(static::getUrl('view', ['record' => $record]));
                             }),
                     ]),
             ]);

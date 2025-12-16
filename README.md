@@ -1,6 +1,6 @@
-# Product - FilamentPHP 4 Module
+# Product - FilamentPHP Module
 
-A simple and clean FilamentPHP 4 module for team discussions and idea submissions. This module enables teams to collaborate, submit new ideas, and interact with each other's suggestions.
+A simple and clean FilamentPHP module for team discussions and idea submissions. This module enables teams to collaborate, submit new ideas, and interact with each other's suggestions.
 
 ## Features
 
