@@ -14,9 +14,9 @@ A simple and clean FilamentPHP module for team discussions and idea submissions.
 
 ## Requirements
 
-- PHP 8.1 or higher
+- PHP 8.2 or higher
 - Laravel 10.x or 11.x
-- FilamentPHP 3.x
+- FilamentPHP 4.x
 
 ## Installation
 
